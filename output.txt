@@ -1,0 +1,5 @@
+16
+['EL4', 'EL4', 'EL4', 'EL4', 'EL3', 'outerBoundary', 'EL4', 'outerBoundary', 'outerBoundary', 'fullBlock', 'outerBoundary', 'fullBlock', 'EL1', 'outerBoundary', 'fullBlock', 'fullBlock']
+Calculation Completed
+['outerBoundary', 'outerBoundary', 'outerBoundary', 'EL2', 'EL1', 'fullBlock', 'outerBoundary', 'outerBoundary', 'fullBlock', 'EL3', 'EL1', 'EL1', 'fullBlock', 'EL1', 'fullBlock', 'EL2']
+--- 71.90657687187195 seconds ---
